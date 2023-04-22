@@ -1,5 +1,8 @@
 # Basic-Tetris-HTML-Game
 Basic Tetris HTML Game
+
+The project does not belong to me, it is a quote...
+
 # Basic Tetris HTML and JavaScript Game
 
 This is a basic implementation of the game Tetris, but it's missing a few things intentionally and they're left as further exploration for the reader.
