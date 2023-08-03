@@ -1,9 +1,6 @@
 # Basic-Tetris-HTML-Game
 Temel Tetris HTML Oyunu
 
-Proje bana ait değildir, alıntıdır...
-TÜRKÇEYE ÇEVİRİLDİ
-
 # Temel Tetris HTML ve JavaScript Oyunu
 
 Bu, Tetris oyununun temel bir uygulamasıdır, ancak kasıtlı olarak birkaç şey eksiktir ve bunlar okuyucuya daha fazla keşif olarak bırakılmıştır.
