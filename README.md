@@ -27,26 +27,3 @@ Bu, Tetris oyununun temel bir uygulamasıdır, ancak kasıtlı olarak birkaç ş
 (CC0 1.0 Universal) Bu oyunu ve kodu herhangi bir kişisel veya ticari projenizde kullanmakta özgürsünüz. Bunları kullanmadan önce izin almanıza gerek yoktur. İlişkilendirme gerekli değildir, ancak takdir edilmektedir.
 
 
-## Diğer Temel Oyunlar
-
-- [Yılan](https://gist.github.com/straker/ff00b4b49669ad3dec890306d348adc4)
-- [Pong](https://Gist.github.com/straker/81b59eecf70da93af396f963596dfdc5)
-- [Çıkış](https://gist.github.com/straker/98a2aed6a7686d26c04810f08bfaf66b)
-- [Bombacı](https://gist.github.com/straker/769fb461e066147ea16ac2cb9463beae)
-- [Kurbağa](https://gist.github.com/straker/82a4368849cbd441b05bd6a044f2b2d3)
-- [Füze Komutanlığı](https://gist.github.com/straker/afc4e2a30b6df772a5f9f6ef01751d41)
-- [Sokoban](https://gist.github.com/straker/2fddb507d4bb6bec54ea2fdb022d020c)
-- [Doodle Jump](https://gist.github.com/straker/b96a4a68bd6d79cf75a833d98a2b654f)
-- [Puzzle Bobble](https://gist.github.com/straker/afc5bedc7f4b4bc65ba8b05c435f6d32)
-- [Helikopter](https://gist.github.com/straker/0d25ae9d235f6a62f8287fd36a097043)
-- [Arkadaşımı Engelle](https://Gist.github.com/straker/df855f22e57576c80d6126aa5609654e)
-
-## Destek
-
-Temel HTML Oyunları, sizin gibi kullanıcılar tarafından mümkün kılınmıştır. [Patron](https://www.patreon.com/straker) olduğunuzda, sahne arkası geliştirme günlüklerine, bir sonraki hangi oyunlarda çalışacağımı oylama olanağına ve bir sonraki Basic'e erken erişime sahip olursunuz. HTML Oyunu.
-
-### En İyi Destekçiler
-
-- Karar Al-Remahy
-- Markasız Teknoloji
-- Hancı Oyunları
